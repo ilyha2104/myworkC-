@@ -1,0 +1,15 @@
+C:\Users\Илюха\Desktop\gb\myC#\exa002_sum\obj\Debug\net6.0\exa002_sum.csproj.AssemblyReference.cache
+C:\Users\Илюха\Desktop\gb\myC#\exa002_sum\obj\Debug\net6.0\exa002_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илюха\Desktop\gb\myC#\exa002_sum\obj\Debug\net6.0\exa002_sum.AssemblyInfoInputs.cache
+C:\Users\Илюха\Desktop\gb\myC#\exa002_sum\obj\Debug\net6.0\exa002_sum.AssemblyInfo.cs
+C:\Users\Илюха\Desktop\gb\myC#\exa002_sum\obj\Debug\net6.0\exa002_sum.csproj.CoreCompileInputs.cache
+C:\Users\Илюха\Desktop\gb\myC#\exa002_sum\bin\Debug\net6.0\exa002_sum.exe
+C:\Users\Илюха\Desktop\gb\myC#\exa002_sum\bin\Debug\net6.0\exa002_sum.deps.json
+C:\Users\Илюха\Desktop\gb\myC#\exa002_sum\bin\Debug\net6.0\exa002_sum.runtimeconfig.json
+C:\Users\Илюха\Desktop\gb\myC#\exa002_sum\bin\Debug\net6.0\exa002_sum.dll
+C:\Users\Илюха\Desktop\gb\myC#\exa002_sum\bin\Debug\net6.0\ref\exa002_sum.dll
+C:\Users\Илюха\Desktop\gb\myC#\exa002_sum\bin\Debug\net6.0\exa002_sum.pdb
+C:\Users\Илюха\Desktop\gb\myC#\exa002_sum\obj\Debug\net6.0\exa002_sum.dll
+C:\Users\Илюха\Desktop\gb\myC#\exa002_sum\obj\Debug\net6.0\ref\exa002_sum.dll
+C:\Users\Илюха\Desktop\gb\myC#\exa002_sum\obj\Debug\net6.0\exa002_sum.pdb
+C:\Users\Илюха\Desktop\gb\myC#\exa002_sum\obj\Debug\net6.0\exa002_sum.genruntimeconfig.cache
